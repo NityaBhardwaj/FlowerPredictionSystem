@@ -49,10 +49,6 @@ Transfer learning option: ResNet‑34 (pretrained) for improved performance.
 
 Layers: Convolution + BatchNorm + ReLU, with residual blocks and classifier head.
 
-Optimizer: Adam (or SGD); Loss: Cross‑entropy.
-#
+Optimizer: Adam (or SGD); Loss: Cross‑entropy.## 🌻 Example: Sunflower Scan
 
-
-![Sunflower Scan](images/sunflower_scan.jpg)
-
-
+![Sunflower Scan](WhatsApp%20Image%202025-06-23%20at%2023.28.47.jpeg)
