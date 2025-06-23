@@ -19,7 +19,7 @@ sklearn
 
 opencv-python (if image preprocessing is done manually)
 
-📂 Dataset Details
+##Dataset
 
 Source: Kaggle – “Flowers Recognition” by Alexander Mamaev 
 
@@ -41,7 +41,7 @@ Sunflower: ~733
 
 Image resolution: ~320×240 pixels 
 
-🧠 Model Architecture
+🧠 ##Model Architecture
 
 Base model: Custom CNN or ResNet‑9 (built from scratch).
 
@@ -50,3 +50,9 @@ Transfer learning option: ResNet‑34 (pretrained) for improved performance.
 Layers: Convolution + BatchNorm + ReLU, with residual blocks and classifier head.
 
 Optimizer: Adam (or SGD); Loss: Cross‑entropy.
+#
+
+
+![Sunflower Scan](images/sunflower_scan.jpg)
+
+
